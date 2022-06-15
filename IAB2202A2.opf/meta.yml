@@ -1,0 +1,46 @@
+id: IAB2202A2
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:19:44.865496'
+last_modified: '2022-06-15T20:19:44.865501'
+parser: null
+source_metadata:
+  title: Acrostic Series
+  language: fr
+  description: 'A series of acrostic poetry and composition, especially the abecedarian
+    form known in Tibetan as katsom (ka rtsom):'
+  volume:
+    fDE3F:
+      title: Khandro's Plea
+      base_file: fDE3F.txt
+      order: 1
+      parent: Advice
+    f370E:
+      title: 'Disheartened by Circumstances: An Acrostic Poem'
+      base_file: f370E.txt
+      order: 2
+      parent: Poems
+    f88DD:
+      title: 'A Blossoming of the Intellect: In Praise of the Great Pioneer Thönmi
+        Sambhoṭa'
+      base_file: f88DD.txt
+      order: 3
+      parent: Praise
+    fEEC0:
+      title: 'A Surge of Faith: Verses In Praise of Tārā'
+      base_file: fEEC0.txt
+      order: 4
+      parent: Praise
+    f130A:
+      title: Acrostic Song
+      base_file: f130A.txt
+      order: 5
+      parent: Songs
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
